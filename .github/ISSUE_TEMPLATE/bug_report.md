@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+title: "<title>{{ page.title }}</title>"
+labels: bug
+assignees: mu-kizill
 
 ---
 
